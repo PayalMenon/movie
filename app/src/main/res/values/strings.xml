@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="tab_home">HOME</string>
+    <string name="tab_favorite">FAVORITES</string>
+    <string name="search_text">Search For your Favorite Movies</string>
+    <string name="search_text_hint">movie name</string>
+    <string name="title"><b>Title:</b> %s</string>
+    <string name="director"><b>Director:</b> %s</string>
+    <string name="year"><b>Year Released:</b> %s</string>
+    <string name="note"><b>Brief Summary:</b> %s</string>
+    <string name="cast"><b>Actors:</b> %s</string>
+    <string name="rating"><b>IMDB Rating:</b> %s</string>
+    <string name="runtime"><b>Runtime:</b> %s</string>
+    <string name="genre"><b>Genre:</b> %s</string>
+    <string name="no_fav_text">Mark some movies as favorite to quickly glance at them whenever you want!!</string>
+</resources>
